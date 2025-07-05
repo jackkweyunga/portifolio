@@ -20,7 +20,7 @@ export default function Hero() {
             <span>•</span>
             <span>Electronics</span>
             <span>•</span>
-            <span className="text-primary">XR Learning</span>
+            <span className="text-primary">Learning XR</span>
           </div>
         </div>
         

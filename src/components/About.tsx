@@ -40,11 +40,7 @@ export default function About() {
         </div>
         
         <div className="grid grid-cols-2 gap-6">
-          <div className="text-center p-4">
-            <div className="text-3xl font-bold text-primary mb-2">104</div>
-            <div className="text-secondary text-sm">GitHub Repos</div>
-          </div>
-          
+
           <div className="text-center p-4">
             <div className="text-3xl font-bold text-primary mb-2">3+</div>
             <div className="text-secondary text-sm">Years Experience</div>
