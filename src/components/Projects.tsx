@@ -15,13 +15,6 @@ export default function Projects() {
       featured: true
     },
     {
-      title: "Tanzania Job Opportunities Platform",
-      description: "A modern job board platform connecting job seekers with employers across Tanzania, featuring advanced search, application tracking, and company profiles.",
-      tech: ["Next.js", "TypeScript", "PostgreSQL", "Tailwind CSS"],
-      link: "https://t-hustle.com",
-      featured: true
-    },
-    {
       title: "Seede XR - Co-founded Company",
       description: "Co-founded boutique design studio specializing in AR/VR, 3D design, and AI-generated art. Creating immersive experiences and solving African socio-economic problems through technology, including health training simulations and interactive digital experiences.",
       tech: ["AR/VR", "3D Design", "Unity", "AI Art"],
