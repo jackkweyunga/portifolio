@@ -6,8 +6,7 @@ export default function About() {
           About Me
         </h2>
         <p className="text-xl text-secondary max-w-2xl mx-auto">
-          A passionate software engineer, DevSecOps practitioner, and XR entrepreneur from Dar es Salaam, Tanzania.
-          Co-founder of Seede XR, currently pursuing my Bachelor&apos;s in Electronic Engineering while building innovative solutions.
+          A passionate software engineer and DevSecOps practitioner from Dar es Salaam, Tanzania.
         </p>
       </div>
       
@@ -16,8 +15,7 @@ export default function About() {
           <div>
             <h3 className="text-xl font-semibold mb-3">Background</h3>
             <p className="text-secondary leading-relaxed">
-              Currently in my third year of Electronic Engineering at the University of Dar es Salaam,
-              I&apos;ve been passionate about software development and cybersecurity. My journey spans
+              Passionate about software development. My journey spans
               full-stack development, cloud technologies, and DevSecOps practices.
             </p>
           </div>
@@ -34,7 +32,7 @@ export default function About() {
             <h3 className="text-xl font-semibold mb-3">Consulting</h3>
             <p className="text-secondary leading-relaxed">
               I provide consulting services in software development and DevSecOps, helping organizations
-              implement secure, scalable solutions with modern technologies and best practices.
+              Implement secure, scalable solutions with modern technologies and best practices.
             </p>
           </div>
         </div>
